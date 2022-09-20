@@ -24,7 +24,7 @@ public class Main {
 
         }
         catch (FileNotFoundException e){
-            System.out.println("invalid file path");
+            System.out.println("Invalid File Path!");
             return;
         }
         System.out.println(input);
